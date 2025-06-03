@@ -11,4 +11,6 @@ This analysis addresses four, key questions:
 ## Key Findings
 
 ## Data Sources
-**Property Transactions:** HM Land Registry Price Paid 
+1. **Property Transactions:** [HM Land Registry Price Paid Data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) - 24M+ records of property transactions listed with the HM Land Registry between 1995 and 2025.
+2. **Workplace-Based Earnings:** [ONS House Price to Workplace-Based Earnings Ratio](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoworkplacebasedearningslowerquartileandmedian) - Local Authority-level aggregated data containing both salary and property price data from 1997 to 2024, from which only salary data was used.
+3. **Inflation Data:** [ONS CPI Index (2015=100)](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt/mm23)
