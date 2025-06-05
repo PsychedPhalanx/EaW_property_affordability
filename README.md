@@ -9,7 +9,10 @@ This analysis addresses four, key questions:
 - Which local authorities and regions show the greatest disparities between prices and earnings?
 - What impact have new property developments had on affordability?
 ## Key Findings
-
+- The England and Wales-wide average property price has **increased by over 133%** since 1997
+- Three distinct phases of property price movement: consistent growth (1997-2007), crisis-induced stagnation (2008-2016), and volatility from Brexit through COVID-19 boom to inflation correction (2016-2024)
+- Meanwhile, the average salary has only **increased by 14.5%** since 1997
+- By 2015, average property prices exceeded their 2007 peak, while salaries are still (2024) yet to recover to their pre financial crises peak.
 ## Data Sources
 1. **Property Transactions:** [HM Land Registry Price Paid Data](https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads) - 24M+ records of property transactions listed with the HM Land Registry between 1995 and 2025.
 2. **Workplace-Based Earnings:** [ONS House Price to Workplace-Based Earnings Ratio](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ratioofhousepricetoworkplacebasedearningslowerquartileandmedian) - Local Authority-level aggregated data containing both salary and property price data from 1997 to 2024, from which only salary data was used.
