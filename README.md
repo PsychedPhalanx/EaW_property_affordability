@@ -39,3 +39,26 @@ This analysis addresses four, key questions:
 ## Tools Used
 - PostgreSQL
 - Tableau Public
+## Repository Structure
+```
+├── data/
+│   ├── processed/
+│   │   └── final_data.csv*
+│   ├── raw/
+│   │   ├── CPI.xlsx
+│   │   └── median_gross_salary.xlsx
+│   └── shapefiles/
+│       └── LAD_MAY_2023_EW_BUC_BESPOKE.shp
+├── sql/
+│   ├── 01_create_salary_table.sql
+│   ├── 02_populate_salary_table.sql
+│   ├── 03_wide_to_long_conversion.sql
+│   ├── 04_create_and_populate_price_paid_table.sql
+│   ├── 05_create_and_populate_inflation_table.sql
+│   └── 06_final_query.sql
+├── tableau/
+│   └── EaW Housing Affordability.twbx
+└── README.md
+```
+
+*Note: final_data.csv is the pre-processed data ready for visualisation. Raw data includes CPI and salary data. The Price Paid data is not included due to the size (4.9GB) - download from HM Land Registry.
