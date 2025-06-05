@@ -36,3 +36,6 @@ This analysis addresses four, key questions:
    - Calculated price-to-salary affordability ratios per local authority and region
    - Calculated new build premiums per property type
    - Built an interactive dashboard with geographic and temporal filtering
+## Tools Used
+- PostgreSQL
+- Tableau Public
